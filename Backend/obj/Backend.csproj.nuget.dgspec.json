@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/dan/Documents/MinimalAPI/Backend/Backend.csproj": {}
+    "C:\\Users\\dpnal\\Documents\\MinimalAPI\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "/home/dan/Documents/MinimalAPI/Backend/Backend.csproj": {
+    "C:\\Users\\dpnal\\Documents\\MinimalAPI\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dan/Documents/MinimalAPI/Backend/Backend.csproj",
+        "projectUniqueName": "C:\\Users\\dpnal\\Documents\\MinimalAPI\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "/home/dan/Documents/MinimalAPI/Backend/Backend.csproj",
-        "packagesPath": "/home/dan/.nuget/packages/",
-        "outputPath": "/home/dan/Documents/MinimalAPI/Backend/obj/",
+        "projectPath": "C:\\Users\\dpnal\\Documents\\MinimalAPI\\Backend\\Backend.csproj",
+        "packagesPath": "C:\\Users\\dpnal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dpnal\\Documents\\MinimalAPI\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\dpnal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/250/sdk/8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,4 @@
+Database/Addresses/*
+Database/People/*
+bin/
+obj/

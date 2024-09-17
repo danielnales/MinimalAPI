@@ -1,0 +1,23 @@
+POST https://localhost:5000/api/person HTTP/1.1
+content-type: application/json
+
+{ 
+  "Id": "948029cd-2fae-4e06-a770-d636224626ee",
+  "Name": "Giuseppe",
+  "Surname": "Maggiore",
+  "Birthday": "1985-03-02"
+}
+#####
+
+POST https://localhost:5000/api/person HTTP/1.1
+content-type: application/json
+
+{ 
+  "Id": "6201236f-a77a-4c27-aae6-88395bc9766f",
+  "Name": "Ivan",
+  "Surname": "Igorski",
+  "Birthday": "1975-09-11"
+}
+#####
+
+GET https://localhost:5000/api/person/batch?personIds=948029cd-2fae-4e06-a770-d636224626ee&personIds=6201236f-a77a-4c27-aae6-88395bc9766f HTTP/1.1

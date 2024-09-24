@@ -7,9 +7,3 @@ var app = builder.Build();
 app.MapControllers();
 
 app.Run("https://localhost:5000");
-
-/*
-Questions:
-
-
-*/
